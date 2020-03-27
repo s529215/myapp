@@ -12,5 +12,18 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "practice",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s529215/myapp.git"
+  },
+  "author": "Austin Barnhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s529215/myapp/issues"
+  },
+  "homepage": "https://github.com/s529215/myapp#readme"
 }
